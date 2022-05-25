@@ -1,0 +1,11 @@
+'Let machine do dirty work', is one of the first rules by brilliant Kernighan and Plauger from their book: The Elements of Programming Style.
+ 
+And that is exactly what Dr. Taylor Sparks have achieved with episode 15, 16 & 17 of his amazing YouTube series: Intro to Python Programming for Material Engineers.
+
+The problem questions are, as a university student, relatable. And the explainations, utterly intelligible!
+
+No more spending hours trying to allign figures in powerpoint or scrolling up and down in excel!
+
+I highly recommend the YouTube series to anyone who wants to make their lab results impeccably interpretable and presentable!
+
+Thank you Dr. Sparks!!

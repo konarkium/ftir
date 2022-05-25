@@ -1,0 +1,17 @@
+lab backgrond:
+
+here i have synthesized microcapsules with melamine formaldehyde resin (MFR) shell and stearic acid (SA) core.
+
+MFR synthesis is a two step process:
+
+a) make melamine formaldehyde prepolymer (MFP) solution
+b) crosslink MFP to make MFR
+
+crosslinking MFP in presence of SA emulsion will give you the aforementioned melamine formaldehyde microcapsules (MFC)
+
+I have made MFCs with MFP of three different formaldehyde/melamine mole ratio: 
+
+a) 2.5: (barely crosslinked),
+b) 4.5: (crosslinked),
+c) 6.5: (=6 as the max functionality of melamine is 6)(excess formaldehyde)(fully crosslinked)
+ 
